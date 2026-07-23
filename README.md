@@ -17,8 +17,7 @@ This repository contains my work for the Summer Analytics 2026 Capstone Project 
 ├── results/
 │   └── submission.csv    # Final predictions on the private test set
 ├── presentation/
-│   └── Gautam_Bhardwaj_SummerAnalytics_Sustainability.pptx   # Executive slide deck
-└── docs/                 # Original project brief, outline, and data dictionary
+    └── Gautam_Bhardwaj_SummerAnalytics_Sustainability.pptx   # Executive slide deck
 ```
 
 ## Part 1 — Process Mining & Executive Presentation
