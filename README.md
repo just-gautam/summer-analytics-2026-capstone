@@ -42,7 +42,3 @@ Binary classification task: predict whether a trip will be `HighCarbon` (1) or n
 - **Result: ~0.999 ROC-AUC (OOF)** — driven primarily by legitimate, allowed features (cabin class, costs, hotel nights), not leakage
 
 Full methodology, EDA, and results are documented in the executed notebook.
-
-## Note on Celonis Process Mining Component
-
-The project brief also called for building a live process-mining dashboard in the Celonis Platform (Process & Variant Explorer, 3 dashboard tabs). Celonis Academic Alliance self-serve signup was unavailable at the time of submission ([Celonis Community reports of Free Plan access changes](https://community.celonis.com)), so this component could not be completed. The process-mining angle is instead reflected through event-log-derived features in the ML notebook (process duration, event sequence patterns) and the Inefficiencies slide in the presentation.
